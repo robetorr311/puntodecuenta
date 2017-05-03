@@ -1,0 +1,200 @@
+    .bordesuperior{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:1px solid #000000;
+    }
+    .bordeinferior{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:none;
+    }    
+    .bordeizquierda{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:none;
+    } 
+    .bordesupizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:1px solid #000000;
+    }
+    .bordesupder{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+    }
+    .bordeinfizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:none;
+    }
+    .bordeinfder{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:none;
+    }
+    .bordeinfderizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:1px solid #000000;	 
+        border-right:1px solid #000000;
+        border-top:none;
+    }
+    .bordesupderizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+    } 
+    .bordederizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:1px solid #000000;
+        border-top:none;
+    }    
+    .bordederecho{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:none;
+    }
+    .bordeninguno{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:none;
+    } 
+    .membrete{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;  
+        border-left:none;    
+        border-right:none;
+        border-top:none;
+        background-image: url("../img/tituloptodeinformacion.jpg")
+
+    } 
+    .bordecompleto{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:1px solid #000000;	 
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+    }
+    .fbordesuperior{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:1px solid #000000;
+        background-color: #cc0000;
+        color: #ffffff;
+    }
+    .fbordeinferior{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:none;
+        background-color: #cc0000;
+        color: #ffffff;
+   }    
+    .fbordeizquierda{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:none;
+         background-color: #cc0000;
+        color: #ffffff;
+   } 
+    .fbordesupizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:1px solid #000000;
+        background-color: #cc0000;
+        color: #ffffff;
+    }
+    .fbordesupder{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+        background-color: #cc0000;
+        color: #ffffff;
+    }
+    .fbordeinfizq{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:1px solid #000000;	 
+        border-right:none;
+        border-top:none;
+        background-color: #cc0000;
+        color: #ffffff;
+    }
+    .fbordeinfder{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:none;
+        background-color: #cc0000;
+        color: #ffffff;
+    } 
+    .fbordederecho{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:1px solid #000000;
+        border-top:none;
+        background-color: #cc0000;
+        color: #ffffff;
+    }
+    .fbordeninguno{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:none;	 
+        border-left:none;	 
+        border-right:none;
+        border-top:none;
+        background-color: #cc0000;
+        color: #ffffff;
+    } 
+    .fbordecompleto{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;	 
+        border-left:1px solid #000000;	 
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+        background-color: #cc0000;
+        color: #ffffff;
+    }        
+    .bordecuadro{       
+        font-family:  Helvetica, Arial, sans-serif;
+        border-bottom:1px solid #000000;     
+        border-left:1px solid #000000;   
+        border-right:1px solid #000000;
+        border-top:1px solid #000000;
+        background-color: #ffffff;
+        width:10px;
+        height:10px;
+   }    
